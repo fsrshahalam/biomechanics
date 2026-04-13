@@ -7,7 +7,7 @@ An interactive learning application built with React and Vite, based on Chapter 
 - **Terminology Quiz** – Multiple-choice quiz on sub-branches of mechanics (Statics, Dynamics, Kinematics, Kinetics)
 - **Analysis Types** – Classify scenarios as Qualitative or Quantitative, with AI-generated scenarios via the Gemini API
 - **Baseball Problem** – Solve a real-world biomechanics problem using Time = Distance / Speed
-- **AI Tutor** – Chat with a Gemini-powered AI tutor specialised in Chapter 1 concepts
+- **AI Tutor** – Chat with a Gemini-powered AI tutor specialized in Chapter 1 concepts
 
 ## Tech Stack
 
